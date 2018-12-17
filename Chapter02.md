@@ -1385,7 +1385,7 @@ Occultist Proficiency List: Alchemy*, Battle Magic, Ceremonial Magic*, Collegiat
 Corrupt Scholar Template: This pre-generated template represents a former loremaster corrupted by investigation into blasphemous, alien powers.  The template is ready for adventure. However, if your occultist’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like.
 
 
-#### Occultist Level Progression
+#### Occultist Level and Ceremony Progression
 
 | Experience | Title             | Level | Hit Dice | Special Abilities                     | 1 | 2 | 3 | 4 | 5 | 6
 | ---------: | :---------------- | ----: | :------- | :----------------                     | :- | :- | :- | :- | :- | :-
