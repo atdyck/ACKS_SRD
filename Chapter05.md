@@ -1434,6 +1434,17 @@ The spell is permanent until dispelled by either dispel magic or a second castin
 
 With this spell, the caster smashes a wooden or stone object or structure as if with an invisible battering ram. The spell deals 1d4 shp of damage to the object or structure struck – sufficient to knock down an oak door, break off a parapet, etc. The impact of the battering ram will blast shards of stone or splinters of wood from the object structure, dealing 5d6 damage to all creatures within 5’. Affected creatures that make a successful saving throw versus Blast reduce damage by half. The battering ram cannot directly target creatures or areas of open ground. An interior floor can be targeted as a structure only if the caster is at least one story above it.
 
+
+#### Blinding Flash
+
+| Range: | 60’
+|:-------- | :---
+| Eldritch| 1 (Grey)
+| Duration: | 1 round per level
+
+When this spell is cast, a bright flash of light dazzles everything and everyone within a 10’ radius area. Creatures within the area of effect must make a saving throw versus Blast or be blinded for the duration of the spell.
+
+
 #### Blindness		
 | Range:| 60’
 | :-------- | :---
@@ -1490,14 +1501,6 @@ With this spell, the caster inflames an existing fire, causing it to cast out sc
 | Small bonfire|	2d6
 | Large bonfire|	4d6
 
-#### Blinding Flash
-
-| Range: | 60’
-|:-------- | :---
-| Eldritch| 1 (Grey)
-| Duration: | 1 round per level
-
-When this spell is cast, a bright flash of light dazzles everything and everyone within a 10’ radius area. Creatures within the area of effect must make a saving throw versus Blast or be blinded for the duration of the spell.
 
 #### Brazen Bull
 
