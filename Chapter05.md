@@ -492,7 +492,7 @@ Each type of ceremonial tradition has its own implements; the Traditional Implem
 | 6 |	2,500gp
 
 | Tradition |	Implements
-| :
+| :- | :-
 | Antiquarian|	athame, altar bell, bowl, candle set, herb bundle,  incense sticks, ritual chalice, small cauldron,  various crystals and stones, wand
 |Chthonic|	altar cloth, book, candle set, censer, chain, dagger, perfume casket, pitcher, quill and ink, ritual chalice, scourge, scrolls, unholy symbol, unholy water or oil
 |Liturgical|	altar cloth, book, candelabra, censer, holy water, holy symbol, font, ritual chalice, rosary, scented oil, serving plate, vestments
